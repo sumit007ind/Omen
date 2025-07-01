@@ -1,11 +1,13 @@
 import React from 'react'
+import Navbar from './component/Navbar'
 
 const App = () => {
   return (
-    <div className='w-full  h-screen  text-black'>
-      Hello Sumit sharma 
-      <div className=''></div>
-    </div>
+    <>
+      <Navbar/>
+    </>
+    
+    
   )
 }
 
