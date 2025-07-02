@@ -3,6 +3,7 @@ import Navbar from './component/Navbar'
 import LandingPage from './component/LandingPage'
 import Marquee from './component/Marquee'
 import About from './component/About'
+import Eyes from './component/Eyes'
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
       <LandingPage/>
       <Marquee/>
       <About/>
+      <Eyes/>
     </div>
       
     
