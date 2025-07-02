@@ -6,7 +6,7 @@ const Navbar = () => {
       <div className='text-xl font-bold text-white '>
         OMEN
       </div>
-      <div className='links text-white flex gap-10' >
+      <div className='links text-white flex gap-10  ' >
         {["Services" , "Our Works" , "About Us" , "Insights" ,"Contact" ].map((item,index) =>(<a key={index} className='text-md font-light'>{item}</a>))}
       </div>
     </div>
