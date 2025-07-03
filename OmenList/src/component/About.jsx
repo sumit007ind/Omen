@@ -16,7 +16,7 @@ const About = () => {
         </div>
         <div className='w-1/2 h-[70vh] rounded-4xl '>
         <img className='rounded-3xl' src='https://www.shutterstock.com/image-photo/side-view-young-smiling-happy-600nw-2326622259.jpg'/>
-       
+  
         </div>
         
       </div>

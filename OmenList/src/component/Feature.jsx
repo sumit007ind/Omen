@@ -3,7 +3,7 @@ import React from "react";
 const Feature = () => {
   return (
     <div className="w-full py-12">
-      <div className="w-full px-10 border-b-[1px] pb-15 border-zinc-700">
+      <div className="w-full px-10 p  border-b-[1px] pb-15 border-zinc-700 ">
         <h1 className='text-8xl font-["Neue_Montreal"]'>Featured Projects</h1>
       </div>
       <div className="px-20">
