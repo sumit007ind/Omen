@@ -5,6 +5,8 @@ import Marquee from './component/Marquee'
 import About from './component/About'
 import Eyes from './component/Eyes'
 
+import Feature from './component/Feature'
+
 const App = () => {
   return (
     
@@ -14,6 +16,7 @@ const App = () => {
       <Marquee/>
       <About/>
       <Eyes/>
+      <Feature/>
     </div>
       
     
