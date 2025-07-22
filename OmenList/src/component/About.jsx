@@ -7,7 +7,7 @@ const About = () => {
       <h1 className='font-["Neue_Montreal"] text-[3vw] tracking-tight'>
         We design bold, eye-opening presentations that elevate your ideas. Whether you're pitching to investors or  It's time to make your message impossible to ignore...
       </h1>
-      <div className='w-full flex gap-5 pt-15 mt-20 border-t-[3px] border-[#a1b562]'>
+      <div className='w-full  flex gap-5 pt-15 mt-20 border-t-[3px] border-[#a1b562]'>
         <div className='w-1/2 '>
 
         <h1 className='text-7xl'>Our approach:</h1>
